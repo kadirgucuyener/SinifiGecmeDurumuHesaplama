@@ -1,0 +1,3 @@
+# SinifiGecmeDurumuHesaplama
+
+# www.patika.dev
